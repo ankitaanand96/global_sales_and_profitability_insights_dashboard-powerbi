@@ -82,11 +82,11 @@ Enhanced data-driven decision-making with interactive dashboards.
 
 📂 Financials_Sample-Dashboard
 
- ├── 📊 Financial_Sample.xlsx
+ ├── 📊 Financial_Sample.xlsx [https://github.com/ankitaanand96/global_sales_and_profitability_insights_dashboard-powerbi/blob/main/Financial%20Dataset%20.xlsx]
  
- ├── 📘 PowerBI_Report.pbix
+ ├── 📘 PowerBI_Report.pbix [https://github.com/ankitaanand96/global_sales_and_profitability_insights_dashboard-powerbi/blob/main/Financial%20Dashboard.pbix]
  
- ├── 🖼️ Dashboard_Screenshot.png
+ ├── 🖼️ Dashboard_Screenshot.png [https://github.com/ankitaanand96/global_sales_and_profitability_insights_dashboard-powerbi/blob/main/Financial%20Dashboard.png]
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
