@@ -4,6 +4,14 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 🧭 Overview
+
+This project presents an end-to-end Business Intelligence (BI) dashboard built using Power BI.
+The dashboard transforms raw financial data into actionable insights — revealing profitability trends, regional performance, and segment-level sales drivers.
+It demonstrates my hands-on skills in data cleaning, DAX measures, visualization design, and business storytelling using analytics tools.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📖 Business Problem
 
 ### A multinational company wanted to identify:
@@ -14,19 +22,41 @@
 
 3. Which product segments should be prioritized for investment.
 
-Using data visualization in Power BI, this project transformed raw financial data into actionable insights to guide strategic business decisions.
+The company faced challenges in connecting KPIs across different markets, time periods, and product categories.
+
+This dashboard provides a single visual hub for leadership teams to track performance and make data-driven decisions.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 📊 Objectives
+
+- Identify peak profit months and sales trends using time-series analysis.
+
+- Visualize geographical profit distribution using map charts.
+
+- Compare product segments (Consumer, Corporate, Home Office) on profitability.
+
+- Highlight key KPIs – Total Profit, Total Sales, and Profit Margin %.
+
+- Provide interactive year-based filtering for performance review.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🧹 Data Preparation
 
-- Cleaned and formatted financial dataset (Financial Sample.xlsx).
+Data Source: Financial Sample.xlsx [https://github.com/ankitaanand96/global_sales_and_profitability_insights_dashboard-powerbi/blob/main/Financial%20Dataset%20.xlsx]
 
-- Created calculated fields (Profit Margin %, Total Profit, Total Sales).
+Tools Used: Excel, Power BI, Power Query
 
-- Built hierarchies and relationships for dynamic drill-down analysis.
+Steps:
 
-- Applied time-based filtering (Year, Month) for trend visualization.
+- Cleaned missing values and standardized column formats.
+
+- Created calculated columns for Profit Margin % and Total Profit.
+
+- Applied DAX for measures like Total Sales, Total Profit, and Profit Margin.
+
+- Created a Calendar table for time intelligence functions.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,11 +86,11 @@ Using data visualization in Power BI, this project transformed raw financial dat
 
 ## 💡 Business Impact
 
-Helped management identify seasonal sales peaks.
+1. Helped management identify seasonal sales peaks.
 
-Supported regional investment planning and resource allocation.
+2. Supported regional investment planning and resource allocation.
 
-Enhanced data-driven decision-making with interactive dashboards.
+3. Enhanced data-driven decision-making with interactive dashboards.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,12 +118,14 @@ Enhanced data-driven decision-making with interactive dashboards.
  
  ├── 🖼️ Dashboard_Screenshot.png [https://github.com/ankitaanand96/global_sales_and_profitability_insights_dashboard-powerbi/blob/main/Financial%20Dashboard.png]
 
+ ├── 📑 Insights Summary
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🏁 Outcome
+## 🎯 Outcome
 
-This dashboard enables executives to track performance at a glance, compare profitability trends, and focus investment on high-return product segments and geographies.
+✅ Identified key profit months, top-performing regions, and high-value segments.
 
+✅ Provided executives with an interactive tool for business review.
 
-
+✅ Demonstrated practical application of BI tools for real-world decision-making.
 
