@@ -118,7 +118,6 @@ Steps:
  
  ├── 🖼️ Dashboard_Screenshot.png [https://github.com/ankitaanand96/global_sales_and_profitability_insights_dashboard-powerbi/blob/main/Financial%20Dashboard.png]
 
- ├── 📑 Insights Summary
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Outcome
