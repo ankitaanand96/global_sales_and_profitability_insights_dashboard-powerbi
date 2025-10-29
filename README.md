@@ -1,6 +1,6 @@
-# 📌 Project Title:
+## 📌 Project Title:
 
-# Global Sales & Profitability Insights Dashboard (Power BI)
+## Global Sales & Profitability Insights Dashboard (Power BI)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
